@@ -1,1 +1,1 @@
-https://todo.slonin.vercel.app/
+https://todo-timer-ibok.vercel.app/
